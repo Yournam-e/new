@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/panels/Persik.css"],"names":[],"mappings":"AAAA,QAEE,SAAU,CACV,eAAgB,CAChB,gBACF,CAEA,aANE,aAUF,CAJA,KAEE,SAAS,CACT,UACF","file":"main.1f5584f4.chunk.css","sourcesContent":[".Persik {\n  display: block;\n  width: 30%;\n  max-width: 240px;\n  margin: 20px auto;\n}\n\n.lol{\n  display: block;\n  width:10%;\n  height: 10%;\n}\n"]}
